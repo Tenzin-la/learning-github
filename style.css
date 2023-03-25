@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3C4048;
+    align-items: center;
+    height: 60px;
+}
+
+nav ul
+{
+    display: flex;
+    list-style: none;
+}
+
+nav a
+{
+    text-decoration: none;
+    color: white;
+    margin: 0 20px;
+
+}
